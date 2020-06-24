@@ -27,6 +27,7 @@
   "main": "dist/pdsDate.umd.js",
   "unpkg": "dist/pdsDate.umd.min.js",
   "dependencies": {
+    "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
