@@ -14,6 +14,6 @@
 
 <script>
 export default {
-  name: 'MyComponent'
+  name: 'SimpleDate'
 }
 </script>

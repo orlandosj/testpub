@@ -1,5 +1,5 @@
 {
-  "name": "my-component",
+  "name": "simple-date",
   "version": "0.1.1",
   "description": "Componente para teste de publicação npm",
   "author": {
@@ -21,11 +21,11 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build:npm": "vue-cli-service build --target lib --name myComponent src/MyComponent.vue",
+    "build:npm": "vue-cli-service build --target lib --name myComponent src/SimpleDate.vue",
     "lint": "vue-cli-service lint"
   },
-  "main": "dist/myComponent.umd.js",
-  "unpkg": "dist/myComponent.umd.min.js",
+  "main": "dist/simpleDate.umd.js",
+  "unpkg": "dist/simpleDate.umd.min.js",
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
