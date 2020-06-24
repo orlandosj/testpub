@@ -1,6 +1,6 @@
 {
   "name": "my-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Componente para teste de publicação npm",
   "author": {
     "name": "Orlando Silva Junior",
@@ -8,10 +8,16 @@
   },
   "repository": "https://github.com/orlandosj/testpub",
   "bugs": "https://github.com/orlandosj/vtestpub/issues",
-  "keywords": ["test", "publish", "npm"],
+  "keywords": [
+    "test",
+    "publish",
+    "npm"
+  ],
   "license": "MIT",
   "private": false,
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
