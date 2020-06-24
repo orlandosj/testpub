@@ -21,7 +21,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build:npm": "vue-cli-service build --target lib --name pdsdate src/PdsDate.vue",
+    "build:npm": "vue-cli-service build --target lib --name pdsDate src/PdsDate.vue",
     "lint": "vue-cli-service lint"
   },
   "main": "dist/pdsDate.umd.js",
