@@ -14,6 +14,6 @@
 
 <script>
 export default {
-  name: 'SimpleDate'
+  name: 'PdsDate'
 }
 </script>

@@ -1,5 +1,5 @@
 {
-  "name": "simple-date",
+  "name": "pds-date",
   "version": "0.1.2",
   "description": "Componente para teste de publicação npm",
   "author": {
@@ -21,11 +21,11 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build:npm": "vue-cli-service build --target lib --name myComponent src/SimpleDate.vue",
+    "build:npm": "vue-cli-service build --target lib --name pdsdate src/PdsDate.vue",
     "lint": "vue-cli-service lint"
   },
-  "main": "dist/simpleDate.umd.js",
-  "unpkg": "dist/simpleDate.umd.min.js",
+  "main": "dist/pdsDate.umd.js",
+  "unpkg": "dist/pdsDate.umd.min.js",
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
